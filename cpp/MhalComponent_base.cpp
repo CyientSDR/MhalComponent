@@ -14,6 +14,8 @@ MhalComponent_base::MhalComponent_base(const char *uuid, const char *label) :
     Component(uuid, label),
     ThreadedComponent()
 {
+    //setThreadName(label);
+
     loadProperties();
 
     datainput = new Packet_FlowUshortStream_In_i("datainput", this);
