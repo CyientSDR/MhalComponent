@@ -1,5 +1,5 @@
 #include <iostream>
-#include "ossie/ossieSupport.h"
+#include <ossie/ossieSupport.h>
 
 #include "MhalComponent.h"
 int main(int argc, char* argv[])
