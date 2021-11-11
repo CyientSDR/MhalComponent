@@ -1,0 +1,12 @@
+4eb04301739442bcdb9214a56ecbdb19  main.cpp
+8bfcd22353c3a57fee561ad86ee2a56b  reconf
+1d89562f4fa16a61d1f4be5737007082  MhalComponent.cpp
+f364c8ca2c1b97595d7a04b384a47b4b  MhalComponent_base.cpp
+dd8f8a055f08fe65b08123fed91efe98  MhalComponent_base.h
+b55b2b42e0d28010a64651d63dc4de11  configure.ac
+c6f98230cf6332195aa2e52e4da30817  Makefile.am
+a758dd451f33672c82e8d934781ad6a9  Makefile.am.ide
+541003c93c007e2e8a58835f72aa1b33  port_impl.cpp
+2b2faa5cfc83438427491f4be5d6ee59  build.sh
+3847ec872a13038b753f4bec5cc5a71f  MhalComponent.h
+8fe19cc783b2621c66cb632f7feee8c4  port_impl.h
