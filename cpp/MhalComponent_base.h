@@ -2,7 +2,7 @@
 #define MHALCOMPONENT_BASE_IMPL_BASE_H
 
 #include <boost/thread.hpp>
-#include <ossie/Component.h>
+#include "ossie/Component.h"
 #include <ossie/ThreadedComponent.h>
 
 #include "port_impl.h"
